@@ -1,0 +1,233 @@
+industry_id,industry_name,year,mass_of_air_emissions_per_annum_x1000_tonnes,ghg
+Z,Total greenhouse gas emissions,1990,833585.6,all_ghg
+Z,Total greenhouse gas emissions,1991,843869.6,all_ghg
+Z,Total greenhouse gas emissions,1992,824007.4,all_ghg
+Z,Total greenhouse gas emissions,1993,806268.8,all_ghg
+Z,Total greenhouse gas emissions,1994,798579.6,all_ghg
+Z,Total greenhouse gas emissions,1995,794216.3,all_ghg
+Z,Total greenhouse gas emissions,1996,822096.4,all_ghg
+Z,Total greenhouse gas emissions,1997,798063.2,all_ghg
+Z,Total greenhouse gas emissions,1998,799937.2,all_ghg
+Z,Total greenhouse gas emissions,1999,769759.8,all_ghg
+Z,Total greenhouse gas emissions,2000,772347.9,all_ghg
+Z,Total greenhouse gas emissions,2001,779655.5,all_ghg
+Z,Total greenhouse gas emissions,2002,761672.3,all_ghg
+Z,Total greenhouse gas emissions,2003,772383.9,all_ghg
+Z,Total greenhouse gas emissions,2004,775090.5,all_ghg
+Z,Total greenhouse gas emissions,2005,771200.4,all_ghg
+Z,Total greenhouse gas emissions,2006,756794.6,all_ghg
+Z,Total greenhouse gas emissions,2007,745754.7,all_ghg
+Z,Total greenhouse gas emissions,2008,728001.8,all_ghg
+Z,Total greenhouse gas emissions,2009,669233.5,all_ghg
+Z,Total greenhouse gas emissions,2010,687087.1,all_ghg
+Z,Total greenhouse gas emissions,2011,643620.4,all_ghg
+Z,Total greenhouse gas emissions,2012,656966.2,all_ghg
+Z,Total greenhouse gas emissions,2013,644933.7,all_ghg
+Z,Total greenhouse gas emissions,2014,611807.3,all_ghg
+Z,Total greenhouse gas emissions,2015,601659.8,all_ghg
+Z,Total greenhouse gas emissions,2016,577772.3,all_ghg
+Z,Total greenhouse gas emissions,2017,563508.1,all_ghg
+Z,Total greenhouse gas emissions,2018,563896.2,all_ghg
+Z,Total CO2 emissions,1990,637291.3,co_2
+Z,Total CO2 emissions,1991,646218.8,co_2
+Z,Total CO2 emissions,1992,631627.5,co_2
+Z,Total CO2 emissions,1993,619040.8,co_2
+Z,Total CO2 emissions,1994,616485.2,co_2
+Z,Total CO2 emissions,1995,610320.3,co_2
+Z,Total CO2 emissions,1996,637804.9,co_2
+Z,Total CO2 emissions,1997,613090.8,co_2
+Z,Total CO2 emissions,1998,621507.7,co_2
+Z,Total CO2 emissions,1999,614895.5,co_2
+Z,Total CO2 emissions,2000,624465.8,co_2
+Z,Total CO2 emissions,2001,637601.2,co_2
+Z,Total CO2 emissions,2002,623210.2,co_2
+Z,Total CO2 emissions,2003,638259.4,co_2
+Z,Total CO2 emissions,2004,645780.5,co_2
+Z,Total CO2 emissions,2005,646451.2,co_2
+Z,Total CO2 emissions,2006,637043.5,co_2
+Z,Total CO2 emissions,2007,629559.9,co_2
+Z,Total CO2 emissions,2008,617724.4,co_2
+Z,Total CO2 emissions,2009,564521.1,co_2
+Z,Total CO2 emissions,2010,585645,co_2
+Z,Total CO2 emissions,2011,547088.9,co_2
+Z,Total CO2 emissions,2012,561771.7,co_2
+Z,Total CO2 emissions,2013,553532.7,co_2
+Z,Total CO2 emissions,2014,521755,co_2
+Z,Total CO2 emissions,2015,512862.5,co_2
+Z,Total CO2 emissions,2016,491333.1,co_2
+Z,Total CO2 emissions,2017,477235.8,co_2
+Z,Total CO2 emissions,2018,478941.3,co_2
+Z,Total CH4 emissions,1990,132540.1,ch_4
+Z,Total CH4 emissions,1991,133286.7,ch_4
+Z,Total CH4 emissions,1992,132965.1,ch_4
+Z,Total CH4 emissions,1993,131390,ch_4
+Z,Total CH4 emissions,1994,124493.2,ch_4
+Z,Total CH4 emissions,1995,126010.6,ch_4
+Z,Total CH4 emissions,1996,125151,ch_4
+Z,Total CH4 emissions,1997,122842.7,ch_4
+Z,Total CH4 emissions,1998,119314,ch_4
+Z,Total CH4 emissions,1999,113756.1,ch_4
+Z,Total CH4 emissions,2000,108545.1,ch_4
+Z,Total CH4 emissions,2001,103655.4,ch_4
+Z,Total CH4 emissions,2002,101218.2,ch_4
+Z,Total CH4 emissions,2003,96067.8,ch_4
+Z,Total CH4 emissions,2004,91710.4,ch_4
+Z,Total CH4 emissions,2005,86933.5,ch_4
+Z,Total CH4 emissions,2006,82458.8,ch_4
+Z,Total CH4 emissions,2007,78555,ch_4
+Z,Total CH4 emissions,2008,72963.6,ch_4
+Z,Total CH4 emissions,2009,68436.5,ch_4
+Z,Total CH4 emissions,2010,63776.6,ch_4
+Z,Total CH4 emissions,2011,61104.1,ch_4
+Z,Total CH4 emissions,2012,59604.9,ch_4
+Z,Total CH4 emissions,2013,55611.2,ch_4
+Z,Total CH4 emissions,2014,53495.4,ch_4
+Z,Total CH4 emissions,2015,52702.5,ch_4
+Z,Total CH4 emissions,2016,51122.4,ch_4
+Z,Total CH4 emissions,2017,51542.8,ch_4
+Z,Total CH4 emissions,2018,51520.7,ch_4
+Z,Total N2O emissions,1990,46400.5,n_2_o
+Z,Total N2O emissions,1991,46635.3,n_2_o
+Z,Total N2O emissions,1992,41732.3,n_2_o
+Z,Total N2O emissions,1993,37509.9,n_2_o
+Z,Total N2O emissions,1994,38136.5,n_2_o
+Z,Total N2O emissions,1995,36892.5,n_2_o
+Z,Total N2O emissions,1996,36955.9,n_2_o
+Z,Total N2O emissions,1997,37217.5,n_2_o
+Z,Total N2O emissions,1998,37204.9,n_2_o
+Z,Total N2O emissions,1999,27663.6,n_2_o
+Z,Total N2O emissions,2000,27042.1,n_2_o
+Z,Total N2O emissions,2001,25581.7,n_2_o
+Z,Total N2O emissions,2002,23976.7,n_2_o
+Z,Total N2O emissions,2003,23590.6,n_2_o
+Z,Total N2O emissions,2004,24192.6,n_2_o
+Z,Total N2O emissions,2005,23309,n_2_o
+Z,Total N2O emissions,2006,22057.2,n_2_o
+Z,Total N2O emissions,2007,22110.2,n_2_o
+Z,Total N2O emissions,2008,21473.2,n_2_o
+Z,Total N2O emissions,2009,19970.2,n_2_o
+Z,Total N2O emissions,2010,20318.7,n_2_o
+Z,Total N2O emissions,2011,19574.3,n_2_o
+Z,Total N2O emissions,2012,19381.4,n_2_o
+Z,Total N2O emissions,2013,19275.9,n_2_o
+Z,Total N2O emissions,2014,19907.1,n_2_o
+Z,Total N2O emissions,2015,19439.1,n_2_o
+Z,Total N2O emissions,2016,19370.3,n_2_o
+Z,Total N2O emissions,2017,19655.9,n_2_o
+Z,Total N2O emissions,2018,19608.8,n_2_o
+Z,Total HFC emissions,1990,14391.4,hfc
+Z,Total HFC emissions,1991,14991,hfc
+Z,Total HFC emissions,1992,15597.5,hfc
+Z,Total HFC emissions,1993,16503.9,hfc
+Z,Total HFC emissions,1994,17588.9,hfc
+Z,Total HFC emissions,1995,19088.1,hfc
+Z,Total HFC emissions,1996,20236.8,hfc
+Z,Total HFC emissions,1997,23084.7,hfc
+Z,Total HFC emissions,1998,20045.8,hfc
+Z,Total HFC emissions,1999,11433,hfc
+Z,Total HFC emissions,2000,9843.1,hfc
+Z,Total HFC emissions,2001,10843.8,hfc
+Z,Total HFC emissions,2002,11334.2,hfc
+Z,Total HFC emissions,2003,12761.3,hfc
+Z,Total HFC emissions,2004,11832.2,hfc
+Z,Total HFC emissions,2005,13045.3,hfc
+Z,Total HFC emissions,2006,13947.2,hfc
+Z,Total HFC emissions,2007,14386.6,hfc
+Z,Total HFC emissions,2008,14875.9,hfc
+Z,Total HFC emissions,2009,15500.1,hfc
+Z,Total HFC emissions,2010,16353,hfc
+Z,Total HFC emissions,2011,14810.7,hfc
+Z,Total HFC emissions,2012,15347.1,hfc
+Z,Total HFC emissions,2013,15672.7,hfc
+Z,Total HFC emissions,2014,15870.8,hfc
+Z,Total HFC emissions,2015,15857.4,hfc
+Z,Total HFC emissions,2016,15096.8,hfc
+Z,Total HFC emissions,2017,14070.3,hfc
+Z,Total HFC emissions,2018,13022.1,hfc
+Z,Total PFC emissions,1990,1651.4,pfc
+Z,Total PFC emissions,1991,1385,pfc
+Z,Total PFC emissions,1992,690.2,pfc
+Z,Total PFC emissions,1993,602.6,pfc
+Z,Total PFC emissions,1994,611.2,pfc
+Z,Total PFC emissions,1995,596.8,pfc
+Z,Total PFC emissions,1996,596.2,pfc
+Z,Total PFC emissions,1997,502.9,pfc
+Z,Total PFC emissions,1998,493.7,pfc
+Z,Total PFC emissions,1999,473.9,pfc
+Z,Total PFC emissions,2000,596.8,pfc
+Z,Total PFC emissions,2001,485.6,pfc
+Z,Total PFC emissions,2002,408.2,pfc
+Z,Total PFC emissions,2003,356.6,pfc
+Z,Total PFC emissions,2004,433.8,pfc
+Z,Total PFC emissions,2005,385.1,pfc
+Z,Total PFC emissions,2006,387.7,pfc
+Z,Total PFC emissions,2007,287.8,pfc
+Z,Total PFC emissions,2008,266.2,pfc
+Z,Total PFC emissions,2009,197.3,pfc
+Z,Total PFC emissions,2010,287.7,pfc
+Z,Total PFC emissions,2011,416.9,pfc
+Z,Total PFC emissions,2012,255,pfc
+Z,Total PFC emissions,2013,318.7,pfc
+Z,Total PFC emissions,2014,278.3,pfc
+Z,Total PFC emissions,2015,327.2,pfc
+Z,Total PFC emissions,2016,353.9,pfc
+Z,Total PFC emissions,2017,493.2,pfc
+Z,Total PFC emissions,2018,256.8,pfc
+Z,Total NF3 emissions,1990,0.4,nf_3
+Z,Total NF3 emissions,1991,0.5,nf_3
+Z,Total NF3 emissions,1992,0.5,nf_3
+Z,Total NF3 emissions,1993,0.6,nf_3
+Z,Total NF3 emissions,1994,0.7,nf_3
+Z,Total NF3 emissions,1995,0.8,nf_3
+Z,Total NF3 emissions,1996,1,nf_3
+Z,Total NF3 emissions,1997,1.1,nf_3
+Z,Total NF3 emissions,1998,1.3,nf_3
+Z,Total NF3 emissions,1999,1.5,nf_3
+Z,Total NF3 emissions,2000,1.7,nf_3
+Z,Total NF3 emissions,2001,1,nf_3
+Z,Total NF3 emissions,2002,1,nf_3
+Z,Total NF3 emissions,2003,1,nf_3
+Z,Total NF3 emissions,2004,0.6,nf_3
+Z,Total NF3 emissions,2005,0.3,nf_3
+Z,Total NF3 emissions,2006,0.3,nf_3
+Z,Total NF3 emissions,2007,0.3,nf_3
+Z,Total NF3 emissions,2008,0.3,nf_3
+Z,Total NF3 emissions,2009,0.3,nf_3
+Z,Total NF3 emissions,2010,0.3,nf_3
+Z,Total NF3 emissions,2011,0.3,nf_3
+Z,Total NF3 emissions,2012,0.3,nf_3
+Z,Total NF3 emissions,2013,0.4,nf_3
+Z,Total NF3 emissions,2014,0.4,nf_3
+Z,Total NF3 emissions,2015,0.4,nf_3
+Z,Total NF3 emissions,2016,0.5,nf_3
+Z,Total NF3 emissions,2017,0.5,nf_3
+Z,Total NF3 emissions,2018,0.6,nf_3
+Z,Total SF6 emissions,1990,1310.5,sf_6
+Z,Total SF6 emissions,1991,1352.3,sf_6
+Z,Total SF6 emissions,1992,1394.2,sf_6
+Z,Total SF6 emissions,1993,1221.1,sf_6
+Z,Total SF6 emissions,1994,1263.9,sf_6
+Z,Total SF6 emissions,1995,1307.1,sf_6
+Z,Total SF6 emissions,1996,1350.7,sf_6
+Z,Total SF6 emissions,1997,1323.4,sf_6
+Z,Total SF6 emissions,1998,1369.7,sf_6
+Z,Total SF6 emissions,1999,1536.3,sf_6
+Z,Total SF6 emissions,2000,1853.5,sf_6
+Z,Total SF6 emissions,2001,1486.8,sf_6
+Z,Total SF6 emissions,2002,1523.9,sf_6
+Z,Total SF6 emissions,2003,1347.3,sf_6
+Z,Total SF6 emissions,2004,1140.4,sf_6
+Z,Total SF6 emissions,2005,1076,sf_6
+Z,Total SF6 emissions,2006,899.9,sf_6
+Z,Total SF6 emissions,2007,854.9,sf_6
+Z,Total SF6 emissions,2008,698.2,sf_6
+Z,Total SF6 emissions,2009,608,sf_6
+Z,Total SF6 emissions,2010,705.9,sf_6
+Z,Total SF6 emissions,2011,625.2,sf_6
+Z,Total SF6 emissions,2012,605.7,sf_6
+Z,Total SF6 emissions,2013,522.1,sf_6
+Z,Total SF6 emissions,2014,500.3,sf_6
+Z,Total SF6 emissions,2015,470.7,sf_6
+Z,Total SF6 emissions,2016,495.2,sf_6
+Z,Total SF6 emissions,2017,509.6,sf_6
+Z,Total SF6 emissions,2018,545.9,sf_6

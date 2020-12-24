@@ -1,0 +1,610 @@
+industry_id,industry_name,year,mass_of_air_emissions_per_annum_x1000_tonnes
+A,"Agriculture, forestry and fishing",1990,0
+A,"Agriculture, forestry and fishing",1991,0
+A,"Agriculture, forestry and fishing",1992,0
+A,"Agriculture, forestry and fishing",1993,0
+A,"Agriculture, forestry and fishing",1994,0
+A,"Agriculture, forestry and fishing",1995,0
+A,"Agriculture, forestry and fishing",1996,0
+A,"Agriculture, forestry and fishing",1997,0
+A,"Agriculture, forestry and fishing",1998,0
+A,"Agriculture, forestry and fishing",1999,0
+A,"Agriculture, forestry and fishing",2000,0
+A,"Agriculture, forestry and fishing",2001,0
+A,"Agriculture, forestry and fishing",2002,0
+A,"Agriculture, forestry and fishing",2003,0
+A,"Agriculture, forestry and fishing",2004,0
+A,"Agriculture, forestry and fishing",2005,0
+A,"Agriculture, forestry and fishing",2006,0
+A,"Agriculture, forestry and fishing",2007,0
+A,"Agriculture, forestry and fishing",2008,0
+A,"Agriculture, forestry and fishing",2009,0
+A,"Agriculture, forestry and fishing",2010,0
+A,"Agriculture, forestry and fishing",2011,0
+A,"Agriculture, forestry and fishing",2012,0
+A,"Agriculture, forestry and fishing",2013,0
+A,"Agriculture, forestry and fishing",2014,0
+A,"Agriculture, forestry and fishing",2015,0
+A,"Agriculture, forestry and fishing",2016,0
+A,"Agriculture, forestry and fishing",2017,0
+A,"Agriculture, forestry and fishing",2018,0
+B,Mining and quarrying,1990,0
+B,Mining and quarrying,1991,0
+B,Mining and quarrying,1992,0
+B,Mining and quarrying,1993,0
+B,Mining and quarrying,1994,0
+B,Mining and quarrying,1995,0
+B,Mining and quarrying,1996,0
+B,Mining and quarrying,1997,0
+B,Mining and quarrying,1998,0
+B,Mining and quarrying,1999,0
+B,Mining and quarrying,2000,0
+B,Mining and quarrying,2001,0
+B,Mining and quarrying,2002,0
+B,Mining and quarrying,2003,0
+B,Mining and quarrying,2004,0
+B,Mining and quarrying,2005,0
+B,Mining and quarrying,2006,0
+B,Mining and quarrying,2007,0
+B,Mining and quarrying,2008,0
+B,Mining and quarrying,2009,0
+B,Mining and quarrying,2010,0
+B,Mining and quarrying,2011,0
+B,Mining and quarrying,2012,0
+B,Mining and quarrying,2013,0
+B,Mining and quarrying,2014,0
+B,Mining and quarrying,2015,0
+B,Mining and quarrying,2016,0
+B,Mining and quarrying,2017,0
+B,Mining and quarrying,2018,0
+C,Manufacturing,1990,644.8
+C,Manufacturing,1991,634.2
+C,Manufacturing,1992,625
+C,Manufacturing,1993,617
+C,Manufacturing,1994,598.4
+C,Manufacturing,1995,605.1
+C,Manufacturing,1996,582.1
+C,Manufacturing,1997,544.8
+C,Manufacturing,1998,587.8
+C,Manufacturing,1999,776.9
+C,Manufacturing,2000,1143.7
+C,Manufacturing,2001,828.5
+C,Manufacturing,2002,881.7
+C,Manufacturing,2003,721.9
+C,Manufacturing,2004,456.8
+C,Manufacturing,2005,328.7
+C,Manufacturing,2006,345.7
+C,Manufacturing,2007,319.3
+C,Manufacturing,2008,241.3
+C,Manufacturing,2009,191.9
+C,Manufacturing,2010,256.1
+C,Manufacturing,2011,197.6
+C,Manufacturing,2012,196.4
+C,Manufacturing,2013,167.9
+C,Manufacturing,2014,163.5
+C,Manufacturing,2015,141.3
+C,Manufacturing,2016,143.5
+C,Manufacturing,2017,174.9
+C,Manufacturing,2018,219.7
+D,"Electricity, gas, steam and air conditioning supply",1990,234.6
+D,"Electricity, gas, steam and air conditioning supply",1991,287.7
+D,"Electricity, gas, steam and air conditioning supply",1992,339
+D,"Electricity, gas, steam and air conditioning supply",1993,389.1
+D,"Electricity, gas, steam and air conditioning supply",1994,447
+D,"Electricity, gas, steam and air conditioning supply",1995,484.9
+D,"Electricity, gas, steam and air conditioning supply",1996,537.3
+D,"Electricity, gas, steam and air conditioning supply",1997,545.2
+D,"Electricity, gas, steam and air conditioning supply",1998,530.6
+D,"Electricity, gas, steam and air conditioning supply",1999,519.9
+D,"Electricity, gas, steam and air conditioning supply",2000,479.1
+D,"Electricity, gas, steam and air conditioning supply",2001,439.9
+D,"Electricity, gas, steam and air conditioning supply",2002,399
+D,"Electricity, gas, steam and air conditioning supply",2003,363.9
+D,"Electricity, gas, steam and air conditioning supply",2004,338.4
+D,"Electricity, gas, steam and air conditioning supply",2005,298.9
+D,"Electricity, gas, steam and air conditioning supply",2006,251.1
+D,"Electricity, gas, steam and air conditioning supply",2007,277.7
+D,"Electricity, gas, steam and air conditioning supply",2008,223.4
+D,"Electricity, gas, steam and air conditioning supply",2009,220.6
+D,"Electricity, gas, steam and air conditioning supply",2010,272.7
+D,"Electricity, gas, steam and air conditioning supply",2011,249.5
+D,"Electricity, gas, steam and air conditioning supply",2012,237.4
+D,"Electricity, gas, steam and air conditioning supply",2013,210.8
+D,"Electricity, gas, steam and air conditioning supply",2014,194.6
+D,"Electricity, gas, steam and air conditioning supply",2015,193.5
+D,"Electricity, gas, steam and air conditioning supply",2016,214.1
+D,"Electricity, gas, steam and air conditioning supply",2017,198.2
+D,"Electricity, gas, steam and air conditioning supply",2018,190.3
+E,Water supply; sewerage and waste management**,1990,92.8
+E,Water supply; sewerage and waste management**,1991,92.1
+E,Water supply; sewerage and waste management**,1992,91.9
+E,Water supply; sewerage and waste management**,1993,92.1
+E,Water supply; sewerage and waste management**,1994,95.7
+E,Water supply; sewerage and waste management**,1995,94.2
+E,Water supply; sewerage and waste management**,1996,108.3
+E,Water supply; sewerage and waste management**,1997,110.4
+E,Water supply; sewerage and waste management**,1998,128.3
+E,Water supply; sewerage and waste management**,1999,116.4
+E,Water supply; sewerage and waste management**,2000,107.6
+E,Water supply; sewerage and waste management**,2001,95.3
+E,Water supply; sewerage and waste management**,2002,120
+E,Water supply; sewerage and waste management**,2003,138.4
+E,Water supply; sewerage and waste management**,2004,222
+E,Water supply; sewerage and waste management**,2005,329
+E,Water supply; sewerage and waste management**,2006,183.6
+E,Water supply; sewerage and waste management**,2007,138.1
+E,Water supply; sewerage and waste management**,2008,113.5
+E,Water supply; sewerage and waste management**,2009,75.6
+E,Water supply; sewerage and waste management**,2010,57
+E,Water supply; sewerage and waste management**,2011,30.1
+E,Water supply; sewerage and waste management**,2012,19.2
+E,Water supply; sewerage and waste management**,2013,17
+E,Water supply; sewerage and waste management**,2014,15.8
+E,Water supply; sewerage and waste management**,2015,15.7
+E,Water supply; sewerage and waste management**,2016,17.4
+E,Water supply; sewerage and waste management**,2017,16.1
+E,Water supply; sewerage and waste management**,2018,15.5
+F,Construction,1990,0
+F,Construction,1991,0
+F,Construction,1992,0
+F,Construction,1993,0
+F,Construction,1994,0
+F,Construction,1995,0
+F,Construction,1996,0
+F,Construction,1997,0
+F,Construction,1998,0
+F,Construction,1999,0
+F,Construction,2000,0
+F,Construction,2001,0
+F,Construction,2002,0
+F,Construction,2003,0
+F,Construction,2004,0
+F,Construction,2005,0
+F,Construction,2006,0
+F,Construction,2007,0
+F,Construction,2008,0
+F,Construction,2009,0
+F,Construction,2010,0
+F,Construction,2011,0
+F,Construction,2012,0
+F,Construction,2013,0
+F,Construction,2014,0
+F,Construction,2015,0
+F,Construction,2016,0
+F,Construction,2017,0
+F,Construction,2018,0
+G,Wholesale and retail trade***,1990,0
+G,Wholesale and retail trade***,1991,0
+G,Wholesale and retail trade***,1992,0
+G,Wholesale and retail trade***,1993,0
+G,Wholesale and retail trade***,1994,0
+G,Wholesale and retail trade***,1995,0
+G,Wholesale and retail trade***,1996,0
+G,Wholesale and retail trade***,1997,0
+G,Wholesale and retail trade***,1998,0
+G,Wholesale and retail trade***,1999,0
+G,Wholesale and retail trade***,2000,0
+G,Wholesale and retail trade***,2001,0
+G,Wholesale and retail trade***,2002,0
+G,Wholesale and retail trade***,2003,0
+G,Wholesale and retail trade***,2004,0
+G,Wholesale and retail trade***,2005,0
+G,Wholesale and retail trade***,2006,0
+G,Wholesale and retail trade***,2007,0
+G,Wholesale and retail trade***,2008,0
+G,Wholesale and retail trade***,2009,0
+G,Wholesale and retail trade***,2010,0
+G,Wholesale and retail trade***,2011,0
+G,Wholesale and retail trade***,2012,0
+G,Wholesale and retail trade***,2013,0
+G,Wholesale and retail trade***,2014,0
+G,Wholesale and retail trade***,2015,0
+G,Wholesale and retail trade***,2016,0
+G,Wholesale and retail trade***,2017,0
+G,Wholesale and retail trade***,2018,0
+H,Transport and storage,1990,0
+H,Transport and storage,1991,0
+H,Transport and storage,1992,0
+H,Transport and storage,1993,0
+H,Transport and storage,1994,0
+H,Transport and storage,1995,0
+H,Transport and storage,1996,0
+H,Transport and storage,1997,0
+H,Transport and storage,1998,0
+H,Transport and storage,1999,0
+H,Transport and storage,2000,0
+H,Transport and storage,2001,0
+H,Transport and storage,2002,0
+H,Transport and storage,2003,0
+H,Transport and storage,2004,0
+H,Transport and storage,2005,0
+H,Transport and storage,2006,0
+H,Transport and storage,2007,0
+H,Transport and storage,2008,0
+H,Transport and storage,2009,0
+H,Transport and storage,2010,0
+H,Transport and storage,2011,0
+H,Transport and storage,2012,0
+H,Transport and storage,2013,0
+H,Transport and storage,2014,0
+H,Transport and storage,2015,0
+H,Transport and storage,2016,0
+H,Transport and storage,2017,0
+H,Transport and storage,2018,0
+I,Accommodation and food services,1990,0
+I,Accommodation and food services,1991,0
+I,Accommodation and food services,1992,0
+I,Accommodation and food services,1993,0
+I,Accommodation and food services,1994,0
+I,Accommodation and food services,1995,0
+I,Accommodation and food services,1996,0
+I,Accommodation and food services,1997,0
+I,Accommodation and food services,1998,0
+I,Accommodation and food services,1999,0
+I,Accommodation and food services,2000,0
+I,Accommodation and food services,2001,0
+I,Accommodation and food services,2002,0
+I,Accommodation and food services,2003,0
+I,Accommodation and food services,2004,0
+I,Accommodation and food services,2005,0
+I,Accommodation and food services,2006,0
+I,Accommodation and food services,2007,0
+I,Accommodation and food services,2008,0
+I,Accommodation and food services,2009,0
+I,Accommodation and food services,2010,0
+I,Accommodation and food services,2011,0
+I,Accommodation and food services,2012,0
+I,Accommodation and food services,2013,0
+I,Accommodation and food services,2014,0
+I,Accommodation and food services,2015,0
+I,Accommodation and food services,2016,0
+I,Accommodation and food services,2017,0
+I,Accommodation and food services,2018,0
+J,Information and communication,1990,0
+J,Information and communication,1991,0
+J,Information and communication,1992,0
+J,Information and communication,1993,0
+J,Information and communication,1994,0
+J,Information and communication,1995,0
+J,Information and communication,1996,0
+J,Information and communication,1997,0
+J,Information and communication,1998,0
+J,Information and communication,1999,0
+J,Information and communication,2000,0
+J,Information and communication,2001,0
+J,Information and communication,2002,0
+J,Information and communication,2003,0
+J,Information and communication,2004,0
+J,Information and communication,2005,0
+J,Information and communication,2006,0
+J,Information and communication,2007,0
+J,Information and communication,2008,0
+J,Information and communication,2009,0
+J,Information and communication,2010,0
+J,Information and communication,2011,0
+J,Information and communication,2012,0
+J,Information and communication,2013,0
+J,Information and communication,2014,0
+J,Information and communication,2015,0
+J,Information and communication,2016,0
+J,Information and communication,2017,0
+J,Information and communication,2018,0
+K,Financial and insurance activities,1990,0
+K,Financial and insurance activities,1991,0
+K,Financial and insurance activities,1992,0
+K,Financial and insurance activities,1993,0
+K,Financial and insurance activities,1994,0
+K,Financial and insurance activities,1995,0
+K,Financial and insurance activities,1996,0
+K,Financial and insurance activities,1997,0
+K,Financial and insurance activities,1998,0
+K,Financial and insurance activities,1999,0
+K,Financial and insurance activities,2000,0
+K,Financial and insurance activities,2001,0
+K,Financial and insurance activities,2002,0
+K,Financial and insurance activities,2003,0
+K,Financial and insurance activities,2004,0
+K,Financial and insurance activities,2005,0
+K,Financial and insurance activities,2006,0
+K,Financial and insurance activities,2007,0
+K,Financial and insurance activities,2008,0
+K,Financial and insurance activities,2009,0
+K,Financial and insurance activities,2010,0
+K,Financial and insurance activities,2011,0
+K,Financial and insurance activities,2012,0
+K,Financial and insurance activities,2013,0
+K,Financial and insurance activities,2014,0
+K,Financial and insurance activities,2015,0
+K,Financial and insurance activities,2016,0
+K,Financial and insurance activities,2017,0
+K,Financial and insurance activities,2018,0
+L,Real estate activities,1990,0
+L,Real estate activities,1991,0
+L,Real estate activities,1992,0
+L,Real estate activities,1993,0
+L,Real estate activities,1994,0
+L,Real estate activities,1995,0
+L,Real estate activities,1996,0
+L,Real estate activities,1997,0
+L,Real estate activities,1998,0
+L,Real estate activities,1999,0
+L,Real estate activities,2000,0
+L,Real estate activities,2001,0
+L,Real estate activities,2002,0
+L,Real estate activities,2003,0
+L,Real estate activities,2004,0
+L,Real estate activities,2005,0
+L,Real estate activities,2006,0
+L,Real estate activities,2007,0
+L,Real estate activities,2008,0
+L,Real estate activities,2009,0
+L,Real estate activities,2010,0
+L,Real estate activities,2011,0
+L,Real estate activities,2012,0
+L,Real estate activities,2013,0
+L,Real estate activities,2014,0
+L,Real estate activities,2015,0
+L,Real estate activities,2016,0
+L,Real estate activities,2017,0
+L,Real estate activities,2018,0
+M,"Professional, scientific and technical activities",1990,219.5
+M,"Professional, scientific and technical activities",1991,219.5
+M,"Professional, scientific and technical activities",1992,219.5
+M,"Professional, scientific and technical activities",1993,4
+M,"Professional, scientific and technical activities",1994,4
+M,"Professional, scientific and technical activities",1995,4
+M,"Professional, scientific and technical activities",1996,4
+M,"Professional, scientific and technical activities",1997,4
+M,"Professional, scientific and technical activities",1998,4
+M,"Professional, scientific and technical activities",1999,4.1
+M,"Professional, scientific and technical activities",2000,4.1
+M,"Professional, scientific and technical activities",2001,4.1
+M,"Professional, scientific and technical activities",2002,4.1
+M,"Professional, scientific and technical activities",2003,4.1
+M,"Professional, scientific and technical activities",2004,4.1
+M,"Professional, scientific and technical activities",2005,0.3
+M,"Professional, scientific and technical activities",2006,0.3
+M,"Professional, scientific and technical activities",2007,0.6
+M,"Professional, scientific and technical activities",2008,0.6
+M,"Professional, scientific and technical activities",2009,0.6
+M,"Professional, scientific and technical activities",2010,0.8
+M,"Professional, scientific and technical activities",2011,28.8
+M,"Professional, scientific and technical activities",2012,33.5
+M,"Professional, scientific and technical activities",2013,7
+M,"Professional, scientific and technical activities",2014,7.1
+M,"Professional, scientific and technical activities",2015,0.9
+M,"Professional, scientific and technical activities",2016,0.9
+M,"Professional, scientific and technical activities",2017,0.9
+M,"Professional, scientific and technical activities",2018,0.9
+N,Administrative and support service activities,1990,0
+N,Administrative and support service activities,1991,0
+N,Administrative and support service activities,1992,0
+N,Administrative and support service activities,1993,0
+N,Administrative and support service activities,1994,0
+N,Administrative and support service activities,1995,0
+N,Administrative and support service activities,1996,0
+N,Administrative and support service activities,1997,0
+N,Administrative and support service activities,1998,0
+N,Administrative and support service activities,1999,0
+N,Administrative and support service activities,2000,0
+N,Administrative and support service activities,2001,0
+N,Administrative and support service activities,2002,0
+N,Administrative and support service activities,2003,0
+N,Administrative and support service activities,2004,0
+N,Administrative and support service activities,2005,0
+N,Administrative and support service activities,2006,0
+N,Administrative and support service activities,2007,0
+N,Administrative and support service activities,2008,0
+N,Administrative and support service activities,2009,0
+N,Administrative and support service activities,2010,0
+N,Administrative and support service activities,2011,0
+N,Administrative and support service activities,2012,0
+N,Administrative and support service activities,2013,0
+N,Administrative and support service activities,2014,0
+N,Administrative and support service activities,2015,0
+N,Administrative and support service activities,2016,0
+N,Administrative and support service activities,2017,0
+N,Administrative and support service activities,2018,0
+O,Public administration and defence; compulsory social security,1990,118.1
+O,Public administration and defence; compulsory social security,1991,118.1
+O,Public administration and defence; compulsory social security,1992,118.1
+O,Public administration and defence; compulsory social security,1993,118.1
+O,Public administration and defence; compulsory social security,1994,118.1
+O,Public administration and defence; compulsory social security,1995,118.1
+O,Public administration and defence; compulsory social security,1996,118.1
+O,Public administration and defence; compulsory social security,1997,118.1
+O,Public administration and defence; compulsory social security,1998,118.1
+O,Public administration and defence; compulsory social security,1999,118.1
+O,Public administration and defence; compulsory social security,2000,118.1
+O,Public administration and defence; compulsory social security,2001,118.1
+O,Public administration and defence; compulsory social security,2002,118.1
+O,Public administration and defence; compulsory social security,2003,118.1
+O,Public administration and defence; compulsory social security,2004,118.1
+O,Public administration and defence; compulsory social security,2005,118.1
+O,Public administration and defence; compulsory social security,2006,118.1
+O,Public administration and defence; compulsory social security,2007,118.1
+O,Public administration and defence; compulsory social security,2008,118.1
+O,Public administration and defence; compulsory social security,2009,118.1
+O,Public administration and defence; compulsory social security,2010,118.1
+O,Public administration and defence; compulsory social security,2011,118.1
+O,Public administration and defence; compulsory social security,2012,118.1
+O,Public administration and defence; compulsory social security,2013,118.1
+O,Public administration and defence; compulsory social security,2014,118.1
+O,Public administration and defence; compulsory social security,2015,118.1
+O,Public administration and defence; compulsory social security,2016,118.1
+O,Public administration and defence; compulsory social security,2017,118.1
+O,Public administration and defence; compulsory social security,2018,118.1
+P,Education,1990,0
+P,Education,1991,0
+P,Education,1992,0
+P,Education,1993,0
+P,Education,1994,0
+P,Education,1995,0
+P,Education,1996,0
+P,Education,1997,0
+P,Education,1998,0
+P,Education,1999,0
+P,Education,2000,0
+P,Education,2001,0
+P,Education,2002,0
+P,Education,2003,0
+P,Education,2004,0
+P,Education,2005,0
+P,Education,2006,0
+P,Education,2007,0
+P,Education,2008,0
+P,Education,2009,0
+P,Education,2010,0
+P,Education,2011,0
+P,Education,2012,0
+P,Education,2013,0
+P,Education,2014,0
+P,Education,2015,0
+P,Education,2016,0
+P,Education,2017,0
+P,Education,2018,0
+Q,Human health and social work activities,1990,0.7
+Q,Human health and social work activities,1991,0.7
+Q,Human health and social work activities,1992,0.7
+Q,Human health and social work activities,1993,0.7
+Q,Human health and social work activities,1994,0.8
+Q,Human health and social work activities,1995,0.8
+Q,Human health and social work activities,1996,0.8
+Q,Human health and social work activities,1997,0.8
+Q,Human health and social work activities,1998,0.8
+Q,Human health and social work activities,1999,0.9
+Q,Human health and social work activities,2000,0.9
+Q,Human health and social work activities,2001,0.9
+Q,Human health and social work activities,2002,1
+Q,Human health and social work activities,2003,1
+Q,Human health and social work activities,2004,1
+Q,Human health and social work activities,2005,1
+Q,Human health and social work activities,2006,1.1
+Q,Human health and social work activities,2007,1.1
+Q,Human health and social work activities,2008,1.1
+Q,Human health and social work activities,2009,1.1
+Q,Human health and social work activities,2010,1.1
+Q,Human health and social work activities,2011,1.1
+Q,Human health and social work activities,2012,1.1
+Q,Human health and social work activities,2013,1.2
+Q,Human health and social work activities,2014,1.2
+Q,Human health and social work activities,2015,1.2
+Q,Human health and social work activities,2016,1.3
+Q,Human health and social work activities,2017,1.3
+Q,Human health and social work activities,2018,1.3
+R,"Arts, entertainment and recreation",1990,0
+R,"Arts, entertainment and recreation",1991,0
+R,"Arts, entertainment and recreation",1992,0
+R,"Arts, entertainment and recreation",1993,0
+R,"Arts, entertainment and recreation",1994,0
+R,"Arts, entertainment and recreation",1995,0
+R,"Arts, entertainment and recreation",1996,0
+R,"Arts, entertainment and recreation",1997,0
+R,"Arts, entertainment and recreation",1998,0
+R,"Arts, entertainment and recreation",1999,0
+R,"Arts, entertainment and recreation",2000,0
+R,"Arts, entertainment and recreation",2001,0
+R,"Arts, entertainment and recreation",2002,0
+R,"Arts, entertainment and recreation",2003,0
+R,"Arts, entertainment and recreation",2004,0
+R,"Arts, entertainment and recreation",2005,0
+R,"Arts, entertainment and recreation",2006,0
+R,"Arts, entertainment and recreation",2007,0
+R,"Arts, entertainment and recreation",2008,0
+R,"Arts, entertainment and recreation",2009,0
+R,"Arts, entertainment and recreation",2010,0
+R,"Arts, entertainment and recreation",2011,0
+R,"Arts, entertainment and recreation",2012,0
+R,"Arts, entertainment and recreation",2013,0
+R,"Arts, entertainment and recreation",2014,0
+R,"Arts, entertainment and recreation",2015,0
+R,"Arts, entertainment and recreation",2016,0
+R,"Arts, entertainment and recreation",2017,0
+R,"Arts, entertainment and recreation",2018,0
+S,Other service activities,1990,0
+S,Other service activities,1991,0
+S,Other service activities,1992,0
+S,Other service activities,1993,0
+S,Other service activities,1994,0
+S,Other service activities,1995,0
+S,Other service activities,1996,0
+S,Other service activities,1997,0
+S,Other service activities,1998,0
+S,Other service activities,1999,0
+S,Other service activities,2000,0
+S,Other service activities,2001,0
+S,Other service activities,2002,0
+S,Other service activities,2003,0
+S,Other service activities,2004,0
+S,Other service activities,2005,0
+S,Other service activities,2006,0
+S,Other service activities,2007,0
+S,Other service activities,2008,0
+S,Other service activities,2009,0
+S,Other service activities,2010,0
+S,Other service activities,2011,0
+S,Other service activities,2012,0
+S,Other service activities,2013,0
+S,Other service activities,2014,0
+S,Other service activities,2015,0
+S,Other service activities,2016,0
+S,Other service activities,2017,0
+S,Other service activities,2018,0
+T,Activities of households as employers*,1990,0
+T,Activities of households as employers*,1991,0
+T,Activities of households as employers*,1992,0
+T,Activities of households as employers*,1993,0
+T,Activities of households as employers*,1994,0
+T,Activities of households as employers*,1995,0
+T,Activities of households as employers*,1996,0
+T,Activities of households as employers*,1997,0
+T,Activities of households as employers*,1998,0
+T,Activities of households as employers*,1999,0
+T,Activities of households as employers*,2000,0
+T,Activities of households as employers*,2001,0
+T,Activities of households as employers*,2002,0
+T,Activities of households as employers*,2003,0
+T,Activities of households as employers*,2004,0
+T,Activities of households as employers*,2005,0
+T,Activities of households as employers*,2006,0
+T,Activities of households as employers*,2007,0
+T,Activities of households as employers*,2008,0
+T,Activities of households as employers*,2009,0
+T,Activities of households as employers*,2010,0
+T,Activities of households as employers*,2011,0
+T,Activities of households as employers*,2012,0
+T,Activities of households as employers*,2013,0
+T,Activities of households as employers*,2014,0
+T,Activities of households as employers*,2015,0
+T,Activities of households as employers*,2016,0
+T,Activities of households as employers*,2017,0
+T,Activities of households as employers*,2018,0
+-,Consumer expenditure,1990,0
+-,Consumer expenditure,1991,0
+-,Consumer expenditure,1992,0
+-,Consumer expenditure,1993,0
+-,Consumer expenditure,1994,0
+-,Consumer expenditure,1995,0
+-,Consumer expenditure,1996,0
+-,Consumer expenditure,1997,0
+-,Consumer expenditure,1998,0
+-,Consumer expenditure,1999,0
+-,Consumer expenditure,2000,0
+-,Consumer expenditure,2001,0
+-,Consumer expenditure,2002,0
+-,Consumer expenditure,2003,0
+-,Consumer expenditure,2004,0
+-,Consumer expenditure,2005,0
+-,Consumer expenditure,2006,0
+-,Consumer expenditure,2007,0
+-,Consumer expenditure,2008,0
+-,Consumer expenditure,2009,0
+-,Consumer expenditure,2010,0
+-,Consumer expenditure,2011,0
+-,Consumer expenditure,2012,0
+-,Consumer expenditure,2013,0
+-,Consumer expenditure,2014,0
+-,Consumer expenditure,2015,0
+-,Consumer expenditure,2016,0
+-,Consumer expenditure,2017,0
+-,Consumer expenditure,2018,0
