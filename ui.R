@@ -66,7 +66,7 @@ ui <- dashboardPage(
         br(),
         box(
           title = "Notes",
-          width = 40, height = 200, background = "teal",
+          width = 40, height = 200, background = "blue",
           tags$ul(
             tags$li(
               "Data: ",
