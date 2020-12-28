@@ -72,11 +72,7 @@ ui <- dashboardPage(
               "Data: ",
               tags$a(
                 "ONS 1990 - 2018 UK emissions",
-                href = "https://www.ons.gov.uk/economy
-                /environmentalaccounts/datasets
-                /ukenvironmentalaccountsatmosphericemissionsgreenhousegasemissionsbyeco
-                nomicsectorandgasunitedkingdom"
-              )
+                href = "https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ukenvironmentalaccountsatmosphericemissionsgreenhousegasemissionsbyeconomicsectorandgasunitedkingdom")
             ),
             tags$li(
               "Units: Mass of air emissions per annum in thousand tonnes of carbon dioxide equivalent"

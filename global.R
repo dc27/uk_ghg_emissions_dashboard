@@ -1,6 +1,5 @@
 library(shinydashboard)
 library(tidyverse)
-library(shinythemes)
 library(RColorBrewer)
 
 total_ghg_emms <- read_csv("data/clean_data/total_emissionsghg.csv")
