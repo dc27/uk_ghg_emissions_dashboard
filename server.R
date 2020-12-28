@@ -152,8 +152,7 @@ server <- function(input, output) {
       theme_bw() +
       theme_void() +
       labs(title = "Proportional Representation of Annual Emissions") +
-      theme(axis.text.x = element_text(vjust = 20),
-            plot.title = element_text(vjust = -10, hjust = 0.5)) +
-      scale_y_continuous(labels = scales::percent)
+      theme(plot.title = element_text(vjust = -10, hjust = 0.5),
+            axis.text.x = element_blank())
   })
 }

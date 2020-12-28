@@ -5,7 +5,7 @@ all_years <- unique(total_ghg_emms$year)
 #####
 # define ui scaffolding
 ui <- dashboardPage(
-  skin = "yellow",
+  skin = "green",
   dashboardHeader(
     title = "UK Greenhouse Gas Emissions by Industry",
     titleWidth = 500
@@ -66,12 +66,16 @@ ui <- dashboardPage(
         br(),
         box(
           title = "Notes",
-          width = 40, height = 200, background = "blue",
+          width = 40, height = 200, background = "black",
           tags$ul(
             tags$li(
               "Data: ",
-              tags$a("ONS 1990 - 2018 UK emissions",
-                     href = "https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ukenvironmentalaccountsatmosphericemissionsgreenhousegasemissionsbyeconomicsectorandgasunitedkingdom"
+              tags$a(
+                "ONS 1990 - 2018 UK emissions",
+                href = "https://www.ons.gov.uk/economy
+                /environmentalaccounts/datasets
+                /ukenvironmentalaccountsatmosphericemissionsgreenhousegasemissionsbyeco
+                nomicsectorandgasunitedkingdom"
               )
             ),
             tags$li(
