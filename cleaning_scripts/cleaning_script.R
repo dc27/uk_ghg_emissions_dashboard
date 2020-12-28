@@ -5,22 +5,23 @@ library(tidyverse)
 # The original raw data can be found at
 # https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ukenvironmentalaccountsatmosphericemissionsgreenhousegasemissionsbyeconomicsectorandgasunitedkingdom
 # 
-dy_total_ghg_data <- readxl::read_xls("raw_data/atmoshpericemissionsghg.xls",
-                                   2, skip = 3)
+dy_total_ghg_data <-
+  readxl::read_xls("data/raw_data/atmoshpericemissionsghg.xls",
+                   2, skip = 3)
 
-dy_co_2_data <- readxl::read_xls("raw_data/atmoshpericemissionsghg.xls",
+dy_co_2_data <- readxl::read_xls("data/raw_data/atmoshpericemissionsghg.xls",
                                  3, skip = 3)
-dy_ch_4_data <- readxl::read_xls("raw_data/atmoshpericemissionsghg.xls",
+dy_ch_4_data <- readxl::read_xls("data/raw_data/atmoshpericemissionsghg.xls",
                                  4, skip = 3)
-dy_n_2_o_data <- readxl::read_xls("raw_data/atmoshpericemissionsghg.xls",
+dy_n_2_o_data <- readxl::read_xls("data/raw_data/atmoshpericemissionsghg.xls",
                                   5, skip = 3)
-dy_hfc_data <- readxl::read_xls("raw_data/atmoshpericemissionsghg.xls",
+dy_hfc_data <- readxl::read_xls("data/raw_data/atmoshpericemissionsghg.xls",
                                 6, skip = 3)
-dy_pfc_data <- readxl::read_xls("raw_data/atmoshpericemissionsghg.xls",
+dy_pfc_data <- readxl::read_xls("data/raw_data/atmoshpericemissionsghg.xls",
                                 7, skip = 3)
-dy_nf_3_data <- readxl::read_xls("raw_data/atmoshpericemissionsghg.xls",
+dy_nf_3_data <- readxl::read_xls("data/raw_data/atmoshpericemissionsghg.xls",
                                  8, skip = 3)
-dy_sf_6_data <- readxl::read_xls("raw_data/atmoshpericemissionsghg.xls",
+dy_sf_6_data <- readxl::read_xls("data/raw_data/atmoshpericemissionsghg.xls",
                                  9, skip = 3)
 
 
@@ -45,28 +46,28 @@ make_data_smaller_and_clean <- function(full_dataset) {
 
 # 2. call the function for each dataset
 total_ghg_data <- make_data_smaller_and_clean(dy_total_ghg_data) %>% 
-  write_csv("clean_data/total_emissionsghg.csv")
+  write_csv("data/clean_data/total_emissionsghg.csv")
 
 co_2_data <- make_data_smaller_and_clean(dy_co_2_data) %>% 
-  write_csv("clean_data/co_2emissions.csv")
+  write_csv("data/clean_data/co_2emissions.csv")
 
 ch_4_data <- make_data_smaller_and_clean(dy_ch_4_data) %>% 
-  write_csv("clean_data/ch_4emissions.csv")
+  write_csv("data/clean_data/ch_4emissions.csv")
 
 n_2_o_data <- make_data_smaller_and_clean(dy_n_2_o_data) %>% 
-  write_csv("clean_data/n_2_0emissions.csv")
+  write_csv("data/clean_data/n_2_0emissions.csv")
 
 hfc_data <- make_data_smaller_and_clean(dy_hfc_data) %>% 
-  write_csv("clean_data/hfc_emissions.csv")
+  write_csv("data/clean_data/hfc_emissions.csv")
 
 pfc_data <- make_data_smaller_and_clean(dy_pfc_data) %>% 
-  write_csv("clean_data/pfc_emissions.csv")
+  write_csv("data/clean_data/pfc_emissions.csv")
 
 nf_3_data <- make_data_smaller_and_clean(dy_nf_3_data) %>% 
-  write_csv("clean_data/nf_3emissions.csv")
+  write_csv("data/clean_data/nf_3emissions.csv")
 
 sf_6_data <- make_data_smaller_and_clean(dy_sf_6_data) %>% 
-  write_csv("clean_data/sf_6emissions.csv")
+  write_csv("data/clean_data/sf_6emissions.csv")
 
 # Section 2
 # Total emissions data:
@@ -104,11 +105,10 @@ total_nf_3 <- get_total_tibble(dy_nf_3_data) %>%
 total_sf_6 <- get_total_tibble(dy_sf_6_data) %>% 
   mutate(ghg = "sf_6")
 
-
 # bind all "total" datasets and write to csv, ready for the dashboard
 all_ghg_totals <- bind_rows(total_total_ghg_emms, total_co_2, total_ch_4,
                             total_n_2_o, total_hfc, total_pfc,total_nf_3,
                             total_sf_6) %>% 
-  write_csv("clean_data/totals_all_time.csv")
+  write_csv("data/clean_data/totals_all_time.csv")
 
   

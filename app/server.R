@@ -1,4 +1,4 @@
-source("plot_functions.R")
+source("R/plot_functions.R")
 
 server <- function(input, output) {
   
