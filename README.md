@@ -51,16 +51,18 @@ in RStudio.
     - [global.R](global.R)
 4. Click "Run App" or enter the command:
 
-```shiny::runApp()```
+```
+shiny::runApp()
+```
 
-Exploring the dashboard
+## Exploring the dashboard
 
 The initial view of the dashboard:
 ![Dashboard Top](images/dashboard_top.png)
 
 There is additional information at the bottom of the dashboard. The decision was
 made to keep all of the information on one tab for ease of use.
-![Dashboard Bottom](images/dashboard_top.png)
+![Dashboard Bottom](images/dashboard_bottom.png)
 
 At the top of the dashboard:
 
