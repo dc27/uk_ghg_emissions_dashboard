@@ -1,4 +1,6 @@
 source("R/plot_functions.R")
+source("R/make_sankey_dfs.R")
+source("R/make_sankey_plot.R")
 
 server <- function(input, output) {
   
@@ -154,5 +156,16 @@ server <- function(input, output) {
       labs(title = "Proportional Representation of Annual Emissions") +
       theme(plot.title = element_text(vjust = -10, hjust = 0.5),
             axis.text.x = element_blank())
+  })
+  
+  sankey_filtered_emissions_df <- reactive({make_sankey_dfs(
+    data = tidy_emissions,
+    userYear = reactive(input$year_choice_sankey),
+    userGas = reactive(input$gas_choice_sankey),
+    userResolution = reactive(input$resolution_filter)
+  )})
+  
+  output$mySankey <- renderSankeyNetwork({
+    make_sankey_plot(sankey_filtered_emissions_df())
   })
 }

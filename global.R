@@ -1,6 +1,7 @@
 library(shinydashboard)
 library(tidyverse)
 library(RColorBrewer)
+library(networkD3)
 
 total_ghg_emms <- read_csv("data/clean_data/total_emissionsghg.csv")
 co_2_emms <- read_csv("data/clean_data/co_2emissions.csv")
@@ -12,7 +13,14 @@ nf_3_emms <- read_csv("data/clean_data/nf_3emissions.csv")
 sf_6_emms <- read_csv("data/clean_data/sf_6emissions.csv")
 total_emms_all_time_data <- read_csv("data/clean_data/totals_all_time.csv")
 total_emms <- read_csv("data/clean_data/totals_all_time.csv")
+
+tidy_emissions <- read_csv("data/clean_data/tidy_emissions.csv")
+
 gas_names <- unique(total_emms$ghg)
+
+n_categories <- tidy_emissions %>% 
+  distinct(category_name) %>% 
+  nrow()
 
 emission_categories <- c("Total GHG emissions" = "all_ghg",
                          "Carbon dioxide" = "co_2",
