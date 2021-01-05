@@ -17,7 +17,7 @@ make_sankey_dfs <- function(data, userYear, userGas, userResolution) {
   
   total_emissions_by_cat <- filtered_tibble %>%
     group_by(category_name) %>% 
-    summarise(cat_sum = sum(emissions))
+    summarise(cat_sum = sum(emissions), .groups = 'drop_last')
   
   categories <- filtered_tibble %>%
     distinct(category_name) %>% 

@@ -106,28 +106,44 @@ ui <- dashboardPage(
         )
       ),
       tabPanel(
-        "Sankey",
-        selectInput(
-          "gas_choice_sankey",
-          "Select Gas",
-          choices = sort(all_gases),
-          "CO2"
+        "Industry Constituents",
+        fluidRow(
+          column(
+            6,
+            selectInput(
+              "gas_choice_sankey",
+              "Select Gas",
+              choices = sort(all_gases),
+              "CO2"
+            )
+          ),
+          column(
+            6,
+            selectInput(
+              "year_choice_sankey",
+              "Select Year",
+              choices = sort(all_years),
+              "2018"
+            )
+          )
         ),
-        selectInput(
-          "year_choice_sankey",
-          "Select Year",
-          choices = sort(all_years),
-          "2018"
+        fluidRow(
+          column(
+            12,
+            sliderInput(
+              width = "100%",
+              "resolution_filter",
+              "Minimum x1000 tonnnes CO2 equivelant emissions per constituent",
+              min = 0,
+              max = 4000,
+              value = 2000,
+              step = 50
+            )
+          )
         ),
-        sliderInput(
-          "resolution_filter",
-          "Min Units per subcat",
-          min = 1000,
-          max = 4000,
-          value = 2000,
-          step = 100
-        ),
-        sankeyNetworkOutput("mySankey")
+        fluidRow(
+          sankeyNetworkOutput("industry_breakdown_s_plot")
+        )
       )
     )
   )

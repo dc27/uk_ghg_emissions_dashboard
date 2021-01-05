@@ -2,7 +2,7 @@ source("R/plot_functions.R")
 source("R/make_sankey_dfs.R")
 source("R/make_sankey_plot.R")
 
-server <- function(input, output) {
+server <- function(input, output, session) {
   
   output$emission_per_industry_plot <- renderPlot({
     if (input$industry_choice == "All") {
@@ -157,6 +157,24 @@ server <- function(input, output) {
       theme(plot.title = element_text(vjust = -10, hjust = 0.5),
             axis.text.x = element_blank())
   })
+  observe({
+    user_in_gas <- input$gas_choice_sankey
+    if (user_in_gas == "CO2") {
+      updateSliderInput(session, "resolution_filter",
+                             "Minimum x1000 tonnnes CO2 equivelant emissions per constituent",
+                             min = 1150,
+                             max = 6000,
+                             value = 2000,
+                             step = 50)
+    } else {
+      updateSliderInput(session,"resolution_filter",
+                        "Minimum x1000 tonnnes CO2 equivelant emissions per constituent",
+                             min = 10,
+                             max = 2000,
+                             value = 100,
+                             step = 10)
+    }
+  })
   
   sankey_filtered_emissions_df <- reactive({make_sankey_dfs(
     data = tidy_emissions,
@@ -165,7 +183,7 @@ server <- function(input, output) {
     userResolution = reactive(input$resolution_filter)
   )})
   
-  output$mySankey <- renderSankeyNetwork({
+  output$industry_breakdown_s_plot <- renderSankeyNetwork({
     make_sankey_plot(sankey_filtered_emissions_df())
   })
 }

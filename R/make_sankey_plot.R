@@ -9,7 +9,7 @@ make_sankey_plot <- function(sankey_dfs) {
   
   return(sankeyNetwork(Links = sankey_dfs$links, Nodes = sankey_dfs$nodes, Source = "source",
                        Target = "target", Value = "value", NodeID = "name",
-                       fontSize = 12, nodeWidth = 12, iterations = length(n_categories),
+                       fontSize = 12, nodeWidth = 12, iterations = 5,
                        sinksRight = FALSE, colourScale = my_colour,
-                       LinkGroup = "group", NodeGroup = "group"))
+                       LinkGroup = "group", NodeGroup = "group", units = " 1000 tonnes CO2 equivelant"))
 }
