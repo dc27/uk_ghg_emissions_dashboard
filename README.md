@@ -81,8 +81,16 @@ On the right-hand side:
 
 The user can also enter a year and then a plot showing a breakdown of all the
 industries and the emissions for each industry.
-![Select Industry](images/highlight_RHS.png)
+![Select Year](images/highlight_RHS.png)
 
+
+On the Industry Constituents tab:
+
+The user selects a greenhouse gas, a year, and a degree of resolution. An
+adaptive sankey network illustrates the constituent elements of each industry.
+The user can hover over links or nodes on the network for more information.
+
+![Industry Constituents](images/industry_constituents_tab.png)
 
 ## Packages Used
 
