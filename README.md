@@ -104,4 +104,5 @@ making use of the following packages.
 |assertr|2.7|
 |shiny|1.5.0|
 |shinydashboard|0.7.1|
-|RColorBrewer|1.1.2
+|RColorBrewer|1.1.2|
+|networkD3|0.4|
